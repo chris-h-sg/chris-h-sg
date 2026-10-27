@@ -2,7 +2,7 @@
 
 Fractional CTO since 2015 and former ed-tech founder, based in Milan, Italy.
 
-I work with founders building a new product and with growing companies preparing for enterprise customers and scale: product planning, launch and scale readiness reviews, health checks when developers or agencies aren't delivering, hiring developers and tech or product leaders, AI enablement, and ongoing support as a fractional CTO.
+I work with founders building new products and with growing companies preparing for enterprise customers and scale: product planning, launch and scale readiness reviews, health checks when developers or agencies aren't delivering, hiring developers and tech or product leaders, AI enablement, and ongoing support as a fractional CTO.
 
 - **SiteOwl:** I joined at the idea stage and led its technology as fractional CTO. The product grew to more than 3,000 B2B customers. [Case study](https://chrishennigfeld.com/case-studies/siteowl?utm_source=github)
 - **TVT:** I led the move from the spreadsheet that ran their network of linguist contractors to a platform. The network grew from 200 to 8,000 without adding coordinators. [Case study](https://chrishennigfeld.com/case-studies/tvt?utm_source=github)
