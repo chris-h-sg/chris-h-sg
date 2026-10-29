@@ -1,6 +1,6 @@
 ## Chris Hennigfeld
 
-Fractional CTO since 2015 and former ed-tech founder, based in Milan, Italy.
+Fractional CTO since 2015 and former ed-tech founder, based in Essen, Germany.
 
 I work with founders building new products and with growing companies preparing for enterprise customers and scale: product planning, launch and scale readiness reviews, health checks when developers or agencies aren't delivering, hiring developers and tech or product leaders, AI enablement, and ongoing support as a fractional CTO.
 
